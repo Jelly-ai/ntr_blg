@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+div{
+    margin-top: 15px;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+}
+
+.image_style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: dimgrey;
+    color:white;
+}
+
+img{
+    width:70%;
+    height:70%;
+}
+
+h2{
+    color: white;
+}
